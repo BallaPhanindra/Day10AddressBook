@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Day10Assignment
+namespace Day10AddressBook
 {
     internal class AddressBookMain
     {
